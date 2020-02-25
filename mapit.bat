@@ -1,1 +1,1 @@
-python C:\Users\Intel\Desktop\Codes\Python\PythonScripts\Address.\Address.py %*
+python your location where the file is saved\Address.py %*
